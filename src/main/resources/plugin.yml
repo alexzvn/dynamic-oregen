@@ -1,0 +1,6 @@
+name: DynamicOregen
+main: dev.alexzvn.oregen.DynamicOregen
+
+author: Alexzvn
+descriptions: Advance dynamic ore generator
+version: 0.0.1
